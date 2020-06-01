@@ -30,7 +30,7 @@ If you created something awesome and want to contribute then feel free to open P
 ✔️ Podcast\
 ✔️ Contact me
 
-To view a live example, **[click here](https://saadpasta.github.io/)**
+To view a live example, **[click here](https://urban-talent-pool.github.io/)**
 
 
 ## Getting Started 🚀
@@ -53,10 +53,10 @@ From your command line, clone and run developerFolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/username/developerFolio.git
+$ git clone https://github.com/Aadil672/urban-talent-pool.git
 
 # Go into the repository
-$ cd developerFolio
+$ cd urban-talent-pool
 
 # Install dependencies
 $ npm install
